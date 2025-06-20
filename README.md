@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MixContext/.github/main/assets/mixcontext_logo.png" width="96" alt="MixContext logo">
+  <img src="https://raw.githubusercontent.com/MixContext/.github/main/assets/logo-bg.png" width="96" alt="MixContext logo">
 </p>
 
 <h2 align="center">MixContext</h2>
@@ -21,9 +21,10 @@ All processing happens on your device—no servers, no snooping.</p>
 
 ### Contributing
 
-Got a new file parser? Found a bug?  
-1. Open an issue → describe the format or problem.  
-2. Fork & PR against `mixcontext-core` or `mixcontext-web`.  
+Got a new file parser? Found a bug?
+
+1. Open an issue → describe the format or problem.
+2. Fork & PR against `mixcontext-core` or `mixcontext-web`.
 3. Make sure `pnpm lint && pnpm type-check && pnpm test` pass.
 
 All code is MIT-licensed. We follow the [Contributor Covenant](https://www.contributor-covenant.org/).
@@ -32,7 +33,7 @@ All code is MIT-licensed. We follow the [Contributor Covenant](https://www.contr
 
 ### Community
 
-* **Discord**: _coming soon_  
+* **Discord**: _coming soon_
 * **Twitter / X**: [@MixContextAI](https://twitter.com/MixContext)
 
 > _“Drag in chaos. Download AI-ready order.”_
