@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MixContext/.github/main/assets/logo-bg.png" width="96" alt="MixContext logo">
+  <img src="https://raw.githubusercontent.com/MixContextAI/.github/refs/heads/main/main/assets/logo-bg.png" width="96" alt="MixContext logo">
 </p>
 
 <h2 align="center">MixContext</h2>
